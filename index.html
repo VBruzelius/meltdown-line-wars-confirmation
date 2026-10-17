@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>Meltdown Line Wars · Account confirmation</title>
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    body { min-height: 100dvh; display: grid; place-items: center; margin: 0; padding: 20px;
+      background: radial-gradient(ellipse at top,#263e56,#0b1420 75%); color: #f3dfb6;
+      font-family: system-ui,Segoe UI,sans-serif; }
+    main { max-width: 520px; text-align: center; padding: 48px 35px; background: #132435;
+      border: 2px solid #d4aa64; border-radius: 10px; box-shadow: 0 15px 65px #0008; }
+    h1 { font-size: clamp(24px,5vw,34px); }
+    p { color: #c0cdd9; line-height: 1.7; }
+    .eyebrow { letter-spacing: .2em; color: #d6b47f; font-size: 13px; font-weight: 800; }
+    .icon { font-size: 46px; color: #e4c17f; }
+    small { color: #93a6b7; }
+  </style>
+  <script>
+    // Prevent Supabase authentication fragments or query parameters persisting in browser history.
+    history.replaceState(null, "", location.pathname);
+  </script>
+</head>
+<body>
+  <main>
+    <div class="eyebrow">MELTDOWN · LINE WARS</div>
+    <div class="icon">✦</div>
+    <h1>Account confirmation</h1>
+    <p>If you followed your email confirmation link, return to Meltdown Line Wars and sign in.</p>
+    <small>You may safely close this tab.</small>
+  </main>
+</body>
+</html>
