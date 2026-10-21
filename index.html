@@ -1,37 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="referrer" content="no-referrer">
-  <title>Meltdown Line Wars · Account confirmation</title><link rel="icon" href="favicon.ico">
-  <style>
-    :root { color-scheme: dark; }
-    * { box-sizing: border-box; }
-    body { min-height: 100dvh; display: grid; place-items: center; margin: 0; padding: 20px;
-      background: radial-gradient(ellipse at top,#263e56,#0b1420 75%); color: #f3dfb6;
-      font-family: system-ui,Segoe UI,sans-serif; }
-    main { max-width: 520px; text-align: center; padding: 48px 35px; background: #132435;
-      border: 2px solid #d4aa64; border-radius: 10px; box-shadow: 0 15px 65px #0008; }
-    h1 { font-size: clamp(24px,5vw,34px); }
-    p { color: #c0cdd9; line-height: 1.7; }
-    .eyebrow { letter-spacing: .2em; color: #d6b47f; font-size: 13px; font-weight: 800; }
-    .icon { font-size: 46px; color: #e4c17f; }
-    small { color: #93a6b7; }
-  </style>
-  <script>
-    // Prevent Supabase authentication fragments or query parameters persisting in browser history.
-    history.replaceState(null, "", location.pathname);
-  </script>
-</head>
-<body>
-  <main>
-    <div class="eyebrow">MELTDOWN · LINE WARS</div>
-    <div class="icon">✦</div>
-    <h1>Account confirmation</h1>
-    <p>If you followed your email confirmation link, return to Meltdown Line Wars and sign in.</p>
-    <small>You may safely close this tab.</small><p><a href="./game/" style="color:#e4c17f">Visit the Meltdown Line Wars website →</a></p>
-    <p><small>Need help? <a href="./support/" style="color:#e4c17f">Contact support</a></small></p>
-  </main>
-</body>
-</html>
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<link rel="canonical" href="https://meltdownlinewars.se/">
+<script>
+// Compatibility for older emails that redirected to the former root callback.
+// Fixed same-site destinations only; preserve auth data until its page consumes it.
+(() => {
+  const hash = new URLSearchParams(location.hash.slice(1));
+  const query = new URLSearchParams(location.search);
+  const type = hash.get("type") || query.get("type");
+  const auth = ["access_token", "refresh_token", "token_hash", "error", "error_description", "code"];
+  if (type === "recovery" || auth.some(key => hash.has(key) || query.has(key))) {
+    const route = type === "recovery" ? "/reset-password/" : "/confirmation/";
+    location.replace(route + location.search + location.hash);
+  }
+})();
+</script>
+<title>Meltdown Line Wars — Official Site</title><link rel="icon" href="favicon.ico"><link rel="apple-touch-icon" href="icon-192.png">
+<meta name="description" content="Meltdown Line Wars: a fantasy tower defense game. Download the Windows launcher, command your defenders, and challenge your friends.">
+<style>
+:root{color-scheme:dark;--gold:#e8c48e;--ice:#a9d3ef}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,sans-serif;background:#08111e;color:#f1ecde}
+a{color:inherit}header{position:relative;min-height:92vh;background:radial-gradient(ellipse at 65% 25%,#284d70 0%,transparent 46%),radial-gradient(ellipse at 15% 80%,#52321f 0%,transparent 50%),linear-gradient(135deg,#0c1c2d,#08111e);overflow:hidden}
+header:before{content:"";position:absolute;inset:0;opacity:.2;background:repeating-linear-gradient(135deg,transparent 0 80px,#c7a16e 81px 82px);pointer-events:none}
+nav{max-width:1120px;margin:auto;padding:28px 22px;display:flex;align-items:center;justify-content:space-between;position:relative}
+.brand{font-family:Georgia,serif;letter-spacing:.12em;font-weight:bold;color:var(--gold);text-decoration:none}
+.nav-links{display:flex;gap:25px;color:#d7dfeb;font-size:14px}
+main{max-width:1120px;margin:auto;padding:95px 22px 110px;position:relative;display:grid;grid-template-columns:1.2fr .8fr;gap:60px;align-items:center}
+.eyebrow{text-transform:uppercase;font-size:12px;letter-spacing:.32em;color:var(--gold)}
+h1{font:700 clamp(52px,7.3vw,104px)/.98 Georgia,serif;letter-spacing:-.04em;margin:21px 0;color:#f7dfb3;text-shadow:0 4px 32px #000b}
+h1 span{color:white}p{font-size:18px;line-height:1.7;color:#bdc8d6;max-width:600px}
+.buttons{display:flex;flex-wrap:wrap;gap:13px;margin:36px 0 22px}
+.cta{display:inline-flex;text-decoration:none;align-items:center;justify-content:center;border:1px solid #eac88d;background:linear-gradient(#bd9255,#745327);padding:16px 26px;font-weight:700;letter-spacing:.04em;border-radius:5px;min-width:220px}
+.cta:hover{filter:brightness(1.13)}.secondary{background:#152a40;border-color:#6583a0;min-width:140px}
+.note{font-size:13px;color:#93a8be}
+.art{border:2px solid #c39a63;background:linear-gradient(180deg,#09172500 20%,#091725eF 90%),url('images/dawnforged.webp') center 36%/cover;box-shadow:0 20px 80px #0009,inset 0 0 50px #d2a26611;min-height:420px;padding:28px;display:flex;flex-direction:column;justify-content:end;position:relative;transform:rotate(2deg)}
+.art:before{content:"";position:absolute;inset:10px;border:1px solid #e8c48e66;pointer-events:none}
+.art strong{font:32px Georgia,serif;color:var(--gold)}.art small{font-size:13px;letter-spacing:.2em;color:#9fc2dc}
+section{max-width:1120px;margin:0 auto;padding:76px 22px}h2{font:42px Georgia,serif;color:var(--gold);margin:0 0 20px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.tile{background:#10233a;border:1px solid #38516b;padding:28px;min-height:165px}.tile h3{color:#f3deb8;margin:0 0 10px}
+footer{border-top:1px solid #2d4058;padding:30px;text-align:center;color:#8fa4bd;font-size:13px}
+@media(max-width:800px){main{grid-template-columns:1fr;padding-top:60px}.art{min-height:240px}.grid{grid-template-columns:1fr}.nav-links{gap:10px}header{min-height:0}}
+</style></head><body>
+<header><nav><a class="brand" href="/"><img src="icon-192.png" width="32" height="32" alt="" style="vertical-align:middle;margin-right:8px">MLW</a><div class="nav-links"><a href="#game">THE GAME</a><a href="#download">DOWNLOAD</a><a href="/support/">SUPPORT</a></div></nav>
+<main><div><div class="eyebrow">Fantasy tower defense • Early testing</div><h1>MELTDOWN<br><span>LINE WARS</span></h1>
+<p>Build your defenses. Send the next wave. Outplay your opponents in a fantasy strategy battle where every tile matters.</p>
+<div id="download" class="buttons"><a class="cta" id="launcher-link" href="/download-test/"><img src="icon-192.png" width="28" height="28" alt="" style="vertical-align:middle;margin-right:10px">DOWNLOAD TEST LAUNCHER</a><a class="cta secondary" href="#game">EXPLORE THE GAME</a></div>
+<div class="note" id="release-note">Install the Windows launcher with Start-menu and optional desktop shortcuts. After setup, open the launcher and install the friends-test game (about 3.5 GB). Unsigned test installer.</div></div>
+<div class="art" aria-label="Meltdown Line Wars fantasy game illustration placeholder"><small>ANCIENT RUINS • DAWNFORGED • IRONCLANS</small><strong>Choose your race.<br>Master the battlefield.</strong></div>
+</main></header>
+<section id="game"><div class="eyebrow">THE GAME</div><h2>Defend. Send. Survive.</h2><div class="grid">
+<div class="tile"><h3>Build your lane</h3>Place and evolve fantasy defenders to keep a path open and stop advancing waves.</div>
+<div class="tile"><h3>Challenge friends</h3>Face opponents in 1v1 matches with Live and Rounds gameplay.</div>
+<div class="tile"><h3>Forge your strategy</h3>Choose race-specific talents and adapt your defenses between matches.</div>
+</div></section>
+<footer>© Meltdown Line Wars • Independent development project • Early test builds may be unstable. <a href="/support/">Support</a> &bull; <a href="/privacy/">Privacy</a></footer>
+</body></html>
