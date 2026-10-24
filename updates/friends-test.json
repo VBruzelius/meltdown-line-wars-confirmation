@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.1.26",
+  "version": "0.1.27",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
@@ -8,7 +8,7 @@
       "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/5cb1dd1b4ee550c7-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/5cb1dd1b4ee550c7-00000.part",
           "size": 103076864,
           "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572"
         }
@@ -16,38 +16,38 @@
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 3127282894,
-      "sha256": "c07336e5a3bbf46f05d04f9ebac014e752031bc4c253c33e4586b6208bde9606",
+      "size": 3128066268,
+      "sha256": "dce393b7ace36eac921688f124f6f4a9386f2c825dd6656bc0954493611fdc34",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "7e3c4a9553ccd24949a2fdaf2816f918c9f2767f9f6759b88b05cf0584d9c608"
+          "sha256": "3faca5c16b3406182df610c7315e76656596ca297e765e0dde76bb7e55004b74"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "765de6018a5600a9f64e36cfdc6698f1bf53fe715d334f03a21d303acfc63430"
+          "sha256": "06298e1dd04eb7cc24a3c59df811819a28ce4afca2ca79fa86ef97eaefb7257c"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "716d2305fe728a0ccc26e659b07277a569dee6b87bc5bd006b52e214479c986c"
+          "sha256": "4c34db25d9392f8ce986e9913603a89b645e193ef91fbf1a4d7753acb5b57e2e"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "f1e06feda5147303c67cda68629d661892a19bca202e615101f86434268c3a28"
+          "sha256": "c8c158903dc82d6b1894af20ffb4e27a2eaced6dc4ba25e18a245fc8068a4090"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/3c3999849db6b41a-00004.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/3c3999849db6b41a-00004.part",
           "size": 536870912,
-          "sha256": "7469290859eb5d88aeff5c9c64ef2316f65e1c0404f64eee7644177a0104f573"
+          "sha256": "fb77bd4bec31e357604eab8890152f70d2af0c5421173ffbf4ee43edbb40f1a6"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/3c3999849db6b41a-00005.part",
-          "size": 442928334,
-          "sha256": "178b4a0050208c38505cd9fcb824f9f18b5a139c0dc9ed0c81ad541255d2bfd6"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/3c3999849db6b41a-00005.part",
+          "size": 443711708,
+          "sha256": "e8e638f147cc2b0c4fe02d416cee6b4e088895297bf464dbeb4008886e483a2a"
         }
       ]
     },
@@ -57,12 +57,12 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.26/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.27/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
       ]
     }
   ],
-  "signature": "kF5AIaWymDfzGS6Ulal3DoUg4i0u3n0ijRyfkmAkv1RGD2h4YNKDmCYQkMSwT3ZTGrXllxBXXih+z+vk5NyuCQ=="
+  "signature": "r1Uz5+R6M7xAmIDxK35NexLeUSVk4bmV7CsG11WW2uGcS+au/YeC8e9AvcoVkm8NsMwqPkkorgWbuH0W6JQhDg=="
 }
