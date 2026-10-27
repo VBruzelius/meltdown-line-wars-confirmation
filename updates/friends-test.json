@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.1.36",
+  "version": "0.1.37",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
@@ -8,7 +8,7 @@
       "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/5cb1dd1b4ee550c7-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/5cb1dd1b4ee550c7-00000.part",
           "size": 103076864,
           "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572"
         }
@@ -16,43 +16,43 @@
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 3404522915,
-      "sha256": "2197b6b27910ba05054aa91688d7d36c853be5450350ba3ef75a6bcee362b2f0",
+      "size": 3410424458,
+      "sha256": "505fd033310bfb11bd64b0c636e2ad64826f6d1aa9f6304f6bde2d62276fa9fc",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "d16d1b4f92d407c406595d5e9fe69a7bcf262dd2302b178b65905de9d4043a94"
+          "sha256": "81e781dd05514e50e9711c952407346c4b4e670b12ea3711fc8892f051a31a09"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "f3cd764e4c1899d407aa964eabe6c213b91646c0b8f4f98b52980c7e84a7cb5a"
+          "sha256": "22d90e170424aeecd4d9188d78ab1581fe34a0e87b7343ee990f855552bce542"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "6d3b5385e7e51f6dcd799b5ae7faef2e8bb9afe8d3eab724866872aeabe7296e"
+          "sha256": "1c0e0eb36408d68e7ef5979920a5d24ed5dfe6271158bcc69b960c0b7a01beec"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "bd160e5e873fedb2b3ef59f0b204e699d5314042069c583c540aee46377a4309"
+          "sha256": "00956fe77290a170c15c074e6efaa0c989eb976667d19b253e1638e8d9c7a82c"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00004.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00004.part",
           "size": 536870912,
-          "sha256": "9fa24369f3ff6f0ac7d1dfdcefd292f60f49f85bc2c51357d6eb572151196f39"
+          "sha256": "4f38c67f5fe24367fe7729a165579ed48043b15912da97fa22526b492d5137e6"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00005.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00005.part",
           "size": 536870912,
-          "sha256": "81bda111fc9bdf9f25e8522110a8d8e204cbb7fca9d68fc91817a85a965f9734"
+          "sha256": "cb7367bb9c95ced20b538e536f258664ca71e16d92721a01de48cf5264c7168e"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/3c3999849db6b41a-00006.part",
-          "size": 183297443,
-          "sha256": "60a41fe6660ffef30a40abe671e363cef333d926f99495b68de8defc5dcbaeaa"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/3c3999849db6b41a-00006.part",
+          "size": 189198986,
+          "sha256": "a3f2aad62e106a0bf9b7a6b4760b1a3bc0b6584498e641e1c9d88d21b94fbf1b"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.36/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.37/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -74,5 +74,5 @@
     "summary": "Meet the Dreadborn: 43 unit stages, spreading Disease, corpse explosions, spectral beams and a new graveyard arena. Available for Survival in this TEST update.",
     "url": "https://meltdownlinewars.se/news/dreadborn-update/"
   },
-  "signature": "a0LuHP9Qrnee7nUqTgHgpk32Knwr3U8ZidlYXHe+biUjjV4sSPKMF+tNVUV3xT3jGDtrnt+Hm/dTWDLn9LIzBw=="
+  "signature": "qn2/I6K2bhlCwB3OjfLjhMAe9L1Q5193exZDXdF54mjXhYoZ0J4fMyAqEHmiq6lCJK4IUUjMacU/SPvMx7VTCA=="
 }
