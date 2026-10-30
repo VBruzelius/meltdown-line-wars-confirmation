@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.1.40",
+  "version": "0.1.41",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
@@ -8,7 +8,7 @@
       "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/5cb1dd1b4ee550c7-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/5cb1dd1b4ee550c7-00000.part",
           "size": 103076864,
           "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572"
         }
@@ -16,43 +16,43 @@
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 3410564469,
-      "sha256": "cef4cc034a87855047c2f6153334cf071b8c456ae10cbc61f420b7a4a4ac1eda",
+      "size": 3411369557,
+      "sha256": "a740cef70333993b40b8fcf5bbc59fdb198507353bece86b6d332c42e57d2daf",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "1e96105341007b7284ccfc8715889e8a0229c1548f4c739ba1882a82dfc3d45d"
+          "sha256": "5965727c539b5d4e7769cbe601c4d81c8c4316f63baea67948fcad24b34c86d5"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "105cad5b0e12dc8480ee7a2819613fa86daee4efcef6075523140d63773d717a"
+          "sha256": "8a2380af5ec33c2c9215636976ec280fc9292ba7f7b8d0a19011b32b9d09e312"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "54cd2f4a0a685f033461f0f3c136d25563836d266cb85c437cf39c158c751df1"
+          "sha256": "24d89ae0f4b736c576ff6a3bed5b521a86158af47d516a06e1d207b0785449c0"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "7cbecc16ba5d0a1a83465adbfea4d3851d6769080d86679472a673b163bed594"
+          "sha256": "a3d36b44025cd96370c070dbcabb2985ca8ddfb9f75b75eb1885b3947107e5a6"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00004.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00004.part",
           "size": 536870912,
-          "sha256": "cdf81d2fed62fe03cf6229dc46c9446e2888a4db3a9ddf044e687c7f638cca1f"
+          "sha256": "03333dd58a6573d3529183485c2d9c55f629c80681336c301c07d3d99df37a89"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00005.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00005.part",
           "size": 536870912,
-          "sha256": "2101091b618f1ffb07c92ad02b0187468179905166d74f2ea7a878cd771b4e4c"
+          "sha256": "eb6491204e50f7573ba59744531a59b889e162f14f2ea0ec1e876dce4fb28d05"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/3c3999849db6b41a-00006.part",
-          "size": 189338997,
-          "sha256": "b373d6990994de3ee38a5763a6b8da26f73d2f1899f0118538e8e86c0c01dd17"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00006.part",
+          "size": 190144085,
+          "sha256": "9435860d4cdf1b6f8f3e55eb4bba27b937a0e9fd397aeba7006385efff40704f"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.40/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -70,9 +70,58 @@
     }
   ],
   "release_notes": {
-    "title": "The Dreadborn Update",
-    "summary": "Meet the Dreadborn: 43 unit stages, spreading Disease, corpse explosions, spectral beams and a new graveyard arena. Available for Survival in this TEST update.",
-    "url": "https://meltdownlinewars.se/news/dreadborn-update/"
+    "title": "Talents, Battlefield & Social Update",
+    "summary": "Reworked race and General talents add new ways to build your army. Chat with friends during a match, see who is online, and plan Survival defenses with clearer wave information.",
+    "url": "https://meltdownlinewars.se/news/battlefield-social-update/",
+    "id": "battlefield-social-20261029",
+    "channel": "TEST",
+    "date": "2026-10-30",
+    "sections": [
+      {
+        "title": "New",
+        "items": [
+          "Read and reply to friends during a match. The small chat window keeps your drafts when minimized and shows unread messages.",
+          "The hub now shows how many unique accounts are online, including players in Survival and PvP.",
+          "The Survival wave planner shows upcoming enemy types and their strengths so you can plan your defenses."
+        ]
+      },
+      {
+        "title": "Balance",
+        "items": [
+          "Warded enemies and Nullweaver bosses now resist 70% of magic damage.",
+          "Magic-immune enemies also ignore Disease and other magical debuffs.",
+          "Wraithscythes deal 40% more weapon damage to diseased enemies. Their empowered sweep every 5 seconds adds 3 Shadow damage per Disease stack to each enemy hit.",
+          "Race and General talents now offer new interactions: bronze gives small stats or useful support upgrades, silver adds tactical twists, and gold changes how a family plays.",
+          "Veterans can rally their direct neighbors. Maulers build damage across targets, and hooked enemies can take extra damage.",
+          "Chainmaster hook-path damage increased. The Ballista gold talent adds a one-second impact stun.",
+          "Quartermaster adds bonus income on every third committed PvP send.",
+          "Unbroken Souls preserves Revenant charge between targets, then drains it over three inactive seconds.",
+          "Offensive bronze damage talents grant 5% per rank. Ignite and Disease specialists improve their main damage effect instead of only their weapon hit.",
+          "Bronze range talents now grant +0.1 cells per rank, up from +0.05.",
+          "Disease applications now add at least one stack and refresh duration. Plaguebearer basic sprays and catapult poison clouds build stacks too; catapult impacts retain their 1/2/3-stack additions."
+        ]
+      },
+      {
+        "title": "Improvements",
+        "items": [
+          "More compact battle selection, clearer wave cards and better alignment across race-themed windows.",
+          "Unit descriptions now clearly identify defenders that reveal hidden enemies.",
+          "New family and effect symbols make talent nodes easier to recognize, with colored paths to distinguish branches.",
+          "Talent Forge keeps race-specific loadouts together on the left, with clearer active builds, darker buttons, stronger frames and faction emblems. Selected talent details stay on the right.",
+          "Back to Hub in the Talent Forge now asks whether to save, leave without saving, or keep editing when a loadout has unsaved changes."
+        ]
+      },
+      {
+        "title": "Fixes",
+        "items": [
+          "Disease death-spread no longer selects hidden enemies unless they are revealed. Existing Disease keeps ticking when an enemy becomes hidden, and area effects can still hit them.",
+          "Mixed Survival waves now send their different enemy groups together instead of finishing one type before starting the next.",
+          "Short matches now show a simple no-XP notice instead of listing reward eligibility requirements.",
+          "Small talent damage bonuses now accumulate correctly through armor and resistance instead of being lost to rounding.",
+          "Crowded combat spends less time finding targets and processing unaffected enemies. Multiplayer updates also use less server work and bandwidth, improving responsiveness without changing combat rules."
+        ]
+      }
+    ]
   },
-  "signature": "NFgHcFl/vdPA9IBH71hvyD0OKvmUEo5zs6+9QY+5RTsrRVT5y1TYgbf91vpZwKlg2QdPsiOLh2xkjIFROVxLDA=="
+  "signature": "Nz7x5BScsL2NwfFEcfYI1DzwLKFyoNqNe2ECboKtBU5E+gnuSo40Hj07eRErt2dUrgjNdzWeQVK1uXNspM1hDg=="
 }
