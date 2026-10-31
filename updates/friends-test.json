@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.1.41",
+  "version": "0.1.42",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
@@ -8,7 +8,7 @@
       "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/5cb1dd1b4ee550c7-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/5cb1dd1b4ee550c7-00000.part",
           "size": 103076864,
           "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572"
         }
@@ -16,43 +16,43 @@
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 3411369557,
-      "sha256": "a740cef70333993b40b8fcf5bbc59fdb198507353bece86b6d332c42e57d2daf",
+      "size": 3411507745,
+      "sha256": "01c4cfb702cf47d589b6ab9da1d9a415f7f916752247468cf707008dbdcee2f5",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "5965727c539b5d4e7769cbe601c4d81c8c4316f63baea67948fcad24b34c86d5"
+          "sha256": "8a0b3ce6c50928e7057a19474c6982be04c87e106bea09a64dff4430ae4b0fbd"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "8a2380af5ec33c2c9215636976ec280fc9292ba7f7b8d0a19011b32b9d09e312"
+          "sha256": "5f51d5b03a7dff2b6955163404b270640168ea1f6834913b8025ac7a3dd5cbcd"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "24d89ae0f4b736c576ff6a3bed5b521a86158af47d516a06e1d207b0785449c0"
+          "sha256": "cd260a4478a67a4a7fd677851c1612571ef1496ea9489f60a20cbd98bb5686fc"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "a3d36b44025cd96370c070dbcabb2985ca8ddfb9f75b75eb1885b3947107e5a6"
+          "sha256": "b9d3aeb225e0882aeac2438b1e23debfbfcbb10965b6184ab1e8dfac64b32c84"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00004.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00004.part",
           "size": 536870912,
-          "sha256": "03333dd58a6573d3529183485c2d9c55f629c80681336c301c07d3d99df37a89"
+          "sha256": "f8c033e30a736b7846a4364c109960fb0fc082faba6a8c29211451760ed7506a"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00005.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00005.part",
           "size": 536870912,
-          "sha256": "eb6491204e50f7573ba59744531a59b889e162f14f2ea0ec1e876dce4fb28d05"
+          "sha256": "646eb91ebb91b5ea67eca9d59f544a7afc30294357ab6b634bd227a51c010062"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/3c3999849db6b41a-00006.part",
-          "size": 190144085,
-          "sha256": "9435860d4cdf1b6f8f3e55eb4bba27b937a0e9fd397aeba7006385efff40704f"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00006.part",
+          "size": 190282273,
+          "sha256": "56975cc1de65540e9e66c076eef8c22f858060cdad9ce506841d156672799d05"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.41/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -70,58 +70,54 @@
     }
   ],
   "release_notes": {
-    "title": "Talents, Battlefield & Social Update",
-    "summary": "Reworked race and General talents add new ways to build your army. Chat with friends during a match, see who is online, and plan Survival defenses with clearer wave information.",
-    "url": "https://meltdownlinewars.se/news/battlefield-social-update/",
-    "id": "battlefield-social-20261029",
+    "title": "Survival, Forge & Mobile Improvements",
+    "summary": "Stronger Mauler paths, stacking armor traps and more late-wave gold help you adapt your army. Talent loadouts, building controls and mobile interfaces are clearer and easier to use.",
+    "url": "https://meltdownlinewars.se/news/survival-forge-mobile-update/",
+    "id": "survival-forge-mobile-20261031",
     "channel": "TEST",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "sections": [
-      {
-        "title": "New",
-        "items": [
-          "Read and reply to friends during a match. The small chat window keeps your drafts when minimized and shows unread messages.",
-          "The hub now shows how many unique accounts are online, including players in Survival and PvP.",
-          "The Survival wave planner shows upcoming enemy types and their strengths so you can plan your defenses."
-        ]
-      },
       {
         "title": "Balance",
         "items": [
-          "Warded enemies and Nullweaver bosses now resist 70% of magic damage.",
-          "Magic-immune enemies also ignore Disease and other magical debuffs.",
-          "Wraithscythes deal 40% more weapon damage to diseased enemies. Their empowered sweep every 5 seconds adds 3 Shadow damage per Disease stack to each enemy hit.",
-          "Race and General talents now offer new interactions: bronze gives small stats or useful support upgrades, silver adds tactical twists, and gold changes how a family plays.",
-          "Veterans can rally their direct neighbors. Maulers build damage across targets, and hooked enemies can take extra damage.",
-          "Chainmaster hook-path damage increased. The Ballista gold talent adds a one-second impact stun.",
-          "Quartermaster adds bonus income on every third committed PvP send.",
-          "Unbroken Souls preserves Revenant charge between targets, then drains it over three inactive seconds.",
-          "Offensive bronze damage talents grant 5% per rank. Ignite and Disease specialists improve their main damage effect instead of only their weapon hit.",
-          "Bronze range talents now grant +0.1 cells per rank, up from +0.05.",
-          "Disease applications now add at least one stack and refresh duration. Plaguebearer basic sprays and catapult poison clouds build stacks too; catapult impacts retain their 1/2/3-stack additions."
+          "Mauler cleave splash now deals 65% / 80% / 95% damage at T2 / T3 / T4.",
+          "Mauler single-target paths deal 3x damage to regular enemies and 5x to bosses. Their small secondary splash keeps its normal damage.",
+          "Armor reductions from different trappers now stack. Repeated hits from the same trapper refresh its own reduction.",
+          "Warded Survival enemies have half their previous health. Their magic resistance remains unchanged.",
+          "Survival clear rewards increase by 50% from Wave 21, giving more gold to adapt your maze.",
+          "Inquisitor-path damage vulnerability now scales with tier: +1 / +3 / +5."
         ]
       },
       {
         "title": "Improvements",
         "items": [
-          "More compact battle selection, clearer wave cards and better alignment across race-themed windows.",
-          "Unit descriptions now clearly identify defenders that reveal hidden enemies.",
-          "New family and effect symbols make talent nodes easier to recognize, with colored paths to distinguish branches.",
-          "Talent Forge keeps race-specific loadouts together on the left, with clearer active builds, darker buttons, stronger frames and faction emblems. Selected talent details stay on the right.",
-          "Back to Hub in the Talent Forge now asks whether to save, leave without saving, or keep editing when a loadout has unsaved changes."
+          "Talent Forge loadout tabs sit above the web, with clearer race and General point totals.",
+          "Banner aura surges have a visible effect so it is easier to see when The Rallying Beat activates.",
+          "Phone mode uses the same ornate Play buttons, race artwork and match-control grouping as PC.",
+          "The phone Menu button opens the centered shared Match Menu. Tech upgrades stay beside their status chip.",
+          "Unread messages use a red numbered badge in the hub and during matches.",
+          "Smaller model textures and lighter oversized weapons reduce asset memory and download size while preserving character bodies, rigs, animations and sharp interface text.",
+          "Weapon effects use less repeated rendering work. Floating damage numbers share a text layer on Android.",
+          "PC retains its original model textures and rendering detail.",
+          "Crowded Android battles batch flame layers and fire trails, reduce repeated ground-effect updates, and use a smaller 3D render budget while keeping interface text sharp."
         ]
       },
       {
         "title": "Fixes",
         "items": [
-          "Disease death-spread no longer selects hidden enemies unless they are revealed. Existing Disease keeps ticking when an enemy becomes hidden, and area effects can still hit them.",
-          "Mixed Survival waves now send their different enemy groups together instead of finishing one type before starting the next.",
-          "Short matches now show a simple no-XP notice instead of listing reward eligibility requirements.",
-          "Small talent damage bonuses now accumulate correctly through armor and resistance instead of being lost to rounding.",
-          "Crowded combat spends less time finding targets and processing unaffected enemies. Multiplayer updates also use less server work and bandwidth, improving responsiveness without changing combat rules."
+          "Quick Build retries your pending cells when enough gold arrives or a blocking placement is removed.",
+          "Loadouts can be renamed correctly. Talent previews show the benefit of the next point instead of the maximum-rank bonus.",
+          "Game Updates can show the latest release notes even when there are no separate announcements.",
+          "Survival rankings correctly retain and compare each account's best run for each race."
+        ]
+      },
+      {
+        "title": "Known issues",
+        "items": [
+          "Android remains in testing. Dense combat still needs further performance work, and emulator results do not guarantee real-device performance."
         ]
       }
     ]
   },
-  "signature": "Nz7x5BScsL2NwfFEcfYI1DzwLKFyoNqNe2ECboKtBU5E+gnuSo40Hj07eRErt2dUrgjNdzWeQVK1uXNspM1hDg=="
+  "signature": "hbXY1urphTTqdOOPEqTNsJd9xMrqufudoUj/eTiostBTFXGTHoszlo1TS9FvkrlDjK/rF5+exHcn+xVXzsQ9AQ=="
 }
