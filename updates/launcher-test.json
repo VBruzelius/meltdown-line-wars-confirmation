@@ -2,14 +2,14 @@
   "schema": 1,
   "product": "mlw-launcher",
   "channel": "test",
-  "version": "0.2.24",
+  "version": "0.2.25",
   "installer": {
-    "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/launcher-test-v0.2.24/Meltdown-Line-Wars-Setup.exe",
-    "size": 21391206,
-    "sha256": "f12d4f6509789ba7e3c3caca781ac76b28344fb6708702f7369bd72b10d9c196"
+    "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/launcher-test-v0.2.25/Meltdown-Line-Wars-Setup.exe",
+    "size": 21392125,
+    "sha256": "2189c3ce05475dc85d52f6b01372a552ea0daa21b0d072a595615d7208e24b98"
   },
-  "launcher_sha256": "c26ccdaec5ff8815c9cba269872ade601acd0caaf02d6e790cd0dddf8c264781",
-  "source_commit": "2af1e93e8db30ddc1723922bf4befa657e011507",
-  "build_run_id": "41275205788",
-  "signature": "OQmuWIUYbdIjAjLc6Yds8GiZHgPutj7wh8nrmwi8i9KBfuQo9Hb1ltk16iJJJi9gnUrqxhyhYJkKMWI4Y/iyAw=="
+  "launcher_sha256": "d1b8b858000c4324e7c8b241493a896323c6f8bfbd59674b040daeed3d116002",
+  "source_commit": "c0c7090e5724f802031607c679149c159a769130",
+  "build_run_id": "41336651915",
+  "signature": "L4+kYHCkKkSOiHZl/9Fiaki0G0RXqMhUL0Wz+K3irBNm9rV8L9zkHT2yQxjYNO6jgnITZr0Lcf4Vsv97lTW7Bw=="
 }
