@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.1.56",
+  "version": "0.1.58",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
@@ -8,7 +8,7 @@
       "sha256": "d37725232a4a43d1c9f2ae5cfbfade1a0fa1cffc6654a4551d19b484f1d08871",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/5cb1dd1b4ee550c7-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/5cb1dd1b4ee550c7-00000.part",
           "size": 103198720,
           "sha256": "d37725232a4a43d1c9f2ae5cfbfade1a0fa1cffc6654a4551d19b484f1d08871"
         }
@@ -16,33 +16,33 @@
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 2329249064,
-      "sha256": "4b33e5c22682c77ccc83208239ab4b75b9cf6de862445e4be265260eecad2f84",
+      "size": 2329433904,
+      "sha256": "fd9b9460967975d7def7e941a64cb49bda48b2dd01748b81990b2a8747c82c94",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "83c1c98e4369233d4125b9579f24c8287ac551c7d7e4f8476c223a51402170fb"
+          "sha256": "36bb3d56cd90b1d6bb3f07eb4515b20cc23b83d551d206327aad13bafc8a7148"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "c3e2909a45f702bad859b08b438d934352f36af61ed8cb2f62e896799883c0ae"
+          "sha256": "d697f9f966f7d925008d91bcda953468ecd59938fdc0876e6867dcdfd2aff2dc"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "b45b783714daedef44d04d9181c098e9b217a2654b4a87dd136658708ed12e76"
+          "sha256": "7c36b5b18462c78dfd63d2028effc0604cce47876c010361846792cdf433bc15"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "e59efd115a3639f8bae3108bfdcdcffedff9777bd7ce13876fac5e97ad93875d"
+          "sha256": "9e3576c2f95860f726b14aaf6f4bfc4d2819ed59a54467d47a56baca53f743d4"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/3c3999849db6b41a-00004.part",
-          "size": 181765416,
-          "sha256": "698978b6b45b2148e2a47021421bd869da28f1e90c009bd598ade775b8cbacb4"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00004.part",
+          "size": 181950256,
+          "sha256": "c304e011958c6b22d2805c4ec7f3b5a90c5fec79b87d6fe230670f8efac8af96"
         }
       ]
     },
@@ -52,7 +52,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.56/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -114,5 +114,5 @@
       }
     ]
   },
-  "signature": "/q+RXlLWMCfR4D5G+4NWlB40NO1WV/GRoI/yBKB47qRUjqW798Ztzzqd8bk5H1iORomF9Ma04o1nlgefWm+fAw=="
+  "signature": "rj66+bIh/6YX9vJ2SvcsBQe4KiR/n64+xuGKCNMUsGgK72vVv72MtLOmTE+sog/HF1KIQ4V10eXQofE02btfBA=="
 }
