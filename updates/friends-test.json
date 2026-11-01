@@ -1,58 +1,48 @@
 {
   "schema": 1,
-  "version": "0.1.42",
+  "version": "0.1.55",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
-      "size": 103076864,
-      "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572",
+      "size": 103198720,
+      "sha256": "d37725232a4a43d1c9f2ae5cfbfade1a0fa1cffc6654a4551d19b484f1d08871",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/5cb1dd1b4ee550c7-00000.part",
-          "size": 103076864,
-          "sha256": "c4b70b2e10e6655c137b3a90e471ebcbbc08215ea99461edfac37cd1bdb97572"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/5cb1dd1b4ee550c7-00000.part",
+          "size": 103198720,
+          "sha256": "d37725232a4a43d1c9f2ae5cfbfade1a0fa1cffc6654a4551d19b484f1d08871"
         }
       ]
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 3411507745,
-      "sha256": "01c4cfb702cf47d589b6ab9da1d9a415f7f916752247468cf707008dbdcee2f5",
+      "size": 2329086844,
+      "sha256": "2d5cd0e2e175c462a4278c384b72f7f1251031fc00a0db6f99b6c259e30b62af",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "8a0b3ce6c50928e7057a19474c6982be04c87e106bea09a64dff4430ae4b0fbd"
+          "sha256": "923396531057622fc9754649216e71fbb685a51c942aa204b88ca5f66aadc64d"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "5f51d5b03a7dff2b6955163404b270640168ea1f6834913b8025ac7a3dd5cbcd"
+          "sha256": "1cb217ad39ca8623f3c787330a823dd85927728d3706454fdbb820b1d2ecd108"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "cd260a4478a67a4a7fd677851c1612571ef1496ea9489f60a20cbd98bb5686fc"
+          "sha256": "8bd9939e7f5eada7555dd2fcc7459e17f861f0ff9b02b59e7de8175c8eaaa103"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "b9d3aeb225e0882aeac2438b1e23debfbfcbb10965b6184ab1e8dfac64b32c84"
+          "sha256": "05ad4c53f7687ce567a75057504ec49f333e5842b2307249927b0668adf17c21"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00004.part",
-          "size": 536870912,
-          "sha256": "f8c033e30a736b7846a4364c109960fb0fc082faba6a8c29211451760ed7506a"
-        },
-        {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00005.part",
-          "size": 536870912,
-          "sha256": "646eb91ebb91b5ea67eca9d59f544a7afc30294357ab6b634bd227a51c010062"
-        },
-        {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/3c3999849db6b41a-00006.part",
-          "size": 190282273,
-          "sha256": "56975cc1de65540e9e66c076eef8c22f858060cdad9ce506841d156672799d05"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/3c3999849db6b41a-00004.part",
+          "size": 181603196,
+          "sha256": "47b0297ea94df1bbcc304535800075ece02f28ccdd4ca8d5c75f64b7d96bb0e0"
         }
       ]
     },
@@ -62,7 +52,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.42/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.55/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -70,54 +60,40 @@
     }
   ],
   "release_notes": {
-    "title": "Survival, Forge & Mobile Improvements",
-    "summary": "Stronger Mauler paths, stacking armor traps and more late-wave gold help you adapt your army. Talent loadouts, building controls and mobile interfaces are clearer and easier to use.",
-    "url": "https://meltdownlinewars.se/news/survival-forge-mobile-update/",
-    "id": "survival-forge-mobile-20261031",
+    "title": "Prismari Arrives",
+    "summary": "Build a crystal-powered Prismari army, explore livelier race backgrounds, and find clearer notifications in your Social Hub.",
+    "url": "https://meltdownlinewars.se/news/prismari-living-world/",
+    "id": "prismari-living-world-20261031",
     "channel": "TEST",
     "date": "2026-10-31",
     "sections": [
       {
-        "title": "Balance",
+        "title": "New",
         "items": [
-          "Mauler cleave splash now deals 65% / 80% / 95% damage at T2 / T3 / T4.",
-          "Mauler single-target paths deal 3x damage to regular enemies and 5x to bosses. Their small secondary splash keeps its normal damage.",
-          "Armor reductions from different trappers now stack. Repeated hits from the same trapper refresh its own reduction.",
-          "Warded Survival enemies have half their previous health. Their magic resistance remains unchanged.",
-          "Survival clear rewards increase by 50% from Wave 21, giving more gold to adapt your maze.",
-          "Inquisitor-path damage vulnerability now scales with tier: +1 / +3 / +5."
+          "Play Prismari in Survival and human matchmaking, with a crystal-cavern hub and battlefield.",
+          "Build Resonant Cores and connect five conduit families. Their formations unlock 35 combinations with bolts, chains, pulses and lingering fields.",
+          "Upgrade fitted crystal models through four conduit tiers. Prismari uses General talents for this first TEST release; its race talent web will follow.",
+          "Diamond conduits reveal hidden enemies within 3 cells at every tier.",
+          "Choose from six initial Prismari profile portraits: the Resonant Core and five conduit families."
         ]
       },
       {
         "title": "Improvements",
         "items": [
-          "Talent Forge loadout tabs sit above the web, with clearer race and General point totals.",
-          "Banner aura surges have a visible effect so it is easier to see when The Rallying Beat activates.",
-          "Phone mode uses the same ornate Play buttons, race artwork and match-control grouping as PC.",
-          "The phone Menu button opens the centered shared Match Menu. Tech upgrades stay beside their status chip.",
-          "Unread messages use a red numbered badge in the hub and during matches.",
-          "Smaller model textures and lighter oversized weapons reduce asset memory and download size while preserving character bodies, rigs, animations and sharp interface text.",
-          "Weapon effects use less repeated rendering work. Floating damage numbers share a text layer on Android.",
-          "PC retains its original model textures and rendering detail.",
-          "Crowded Android battles batch flame layers and fire trails, reduce repeated ground-effect updates, and use a smaller 3D render budget while keeping interface text sharp."
-        ]
-      },
-      {
-        "title": "Fixes",
-        "items": [
-          "Quick Build retries your pending cells when enough gold arrives or a blocking placement is removed.",
-          "Loadouts can be renamed correctly. Talent previews show the benefit of the next point instead of the maximum-rank bonus.",
-          "Game Updates can show the latest release notes even when there are no separate announcements.",
-          "Survival rankings correctly retain and compare each account's best run for each race."
+          "Dawnforged golden flames and waterfalls, Ironclans fire and lava, and Dreadborn soulfire and mist now move subtly in hub and arena backgrounds.",
+          "Notifications use compact, distinct cards with sender information, read markers and relevant actions.",
+          "Friends, messages and notifications share the Social Hub, with portraits, levels and recent Survival and PvP records.",
+          "Prismari progression, loadouts, matchmaking and recorded results are supported by the TEST backend.",
+          "The shared per-race Survival and casual PvP XP allowance now matches the game's existing policy."
         ]
       },
       {
         "title": "Known issues",
         "items": [
-          "Android remains in testing. Dense combat still needs further performance work, and emulator results do not guarantee real-device performance."
+          "Prismari currently uses General talents. Its dedicated race talent web will follow."
         ]
       }
     ]
   },
-  "signature": "hbXY1urphTTqdOOPEqTNsJd9xMrqufudoUj/eTiostBTFXGTHoszlo1TS9FvkrlDjK/rF5+exHcn+xVXzsQ9AQ=="
+  "signature": "RTDUYCcNHKhQgLUrd059Gsl0TiRp+cL1ryVi5G3ytOL2N/djrkgrEzeeZVkzNhshZTjACpG6CP5CtbEIPVmEAA=="
 }
