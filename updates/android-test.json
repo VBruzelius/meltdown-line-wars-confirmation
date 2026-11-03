@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "source_sha": "ee91aed3fec8574bb98807657151eced9bd3aa09",
+  "source_sha": "1c5fb84170bddaf0f5ec18ab671151d253f7fccc",
   "asset_sha": "c40c4300bd1435f33473f79f9ef7aa5a69e99633",
-  "build": 14,
+  "build": 15,
   "filename": "Meltdown-Line-Wars-Android-Alpha.apk",
-  "size": 672014812,
-  "sha256": "01bb6368294eb9aaa770c047ecc8be2323893e4fa0ae39f3597e0932e7e4ba3f",
-  "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/android-test-ee91aed3fec8-14/Meltdown-Line-Wars-Android-Alpha.apk",
-  "tag": "android-test-ee91aed3fec8-14",
+  "size": 672014929,
+  "sha256": "52fd2bbf09d30e6b361ef1fe2498917c1984ef7de8258cabe88abf5e7266622d",
+  "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/android-test-1c5fb84170bd-15/Meltdown-Line-Wars-Android-Alpha.apk",
+  "tag": "android-test-1c5fb84170bd-15",
   "requires_local_signing": false,
   "physical_device_tested": false
 }
