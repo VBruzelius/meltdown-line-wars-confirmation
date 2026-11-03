@@ -1,13 +1,13 @@
 {
   "platform": "ios",
-  "source_sha": "ee91aed3fec8574bb98807657151eced9bd3aa09",
+  "source_sha": "1c5fb84170bddaf0f5ec18ab671151d253f7fccc",
   "asset_sha": "c40c4300bd1435f33473f79f9ef7aa5a69e99633",
-  "build": 5,
+  "build": 6,
   "filename": "MLW-UNSIGNED-requires-signing.ipa",
-  "size": 632518286,
-  "sha256": "f45984420c3b5877e9ea3b6622f14b83dcce4dc403ffc8f09fd0c7624ff7fece",
-  "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/ios-test-ee91aed3fec8-5/MLW-UNSIGNED-requires-signing.ipa",
-  "tag": "ios-test-ee91aed3fec8-5",
+  "size": 632518498,
+  "sha256": "1f07929a556470ade5e5e69db36c3107360dec2d230ae106076adfc8a2c6a070",
+  "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/ios-test-1c5fb84170bd-6/MLW-UNSIGNED-requires-signing.ipa",
+  "tag": "ios-test-1c5fb84170bd-6",
   "requires_local_signing": true,
   "physical_device_tested": false
 }
