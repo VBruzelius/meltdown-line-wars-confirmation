@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.1.65",
+  "version": "0.1.66",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
@@ -8,7 +8,7 @@
       "sha256": "905b27e79d465d6418490f84271638d24a62858ec3918474e149fc6f50e9c886",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/5cb1dd1b4ee550c7-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/5cb1dd1b4ee550c7-00000.part",
           "size": 103173120,
           "sha256": "905b27e79d465d6418490f84271638d24a62858ec3918474e149fc6f50e9c886"
         }
@@ -16,33 +16,33 @@
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 2333709380,
-      "sha256": "8f5d87049d42f4ec5bd700c49bb60cc170f2dbd3661bcd67c9737ea7efc1feb5",
+      "size": 2333710140,
+      "sha256": "ac0d169de841ee1f4f61df16abefeab296d836ae553a8d199ab34d826a2ee9b9",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "f631ce33adac43a15a892a0e547a8dc90410688e8ca1f2979a4b422242ea36a2"
+          "sha256": "fb11230b354fcb271765c7b6038ba45c363f3292316f0a10316c5017e30e3705"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "59a78ec1baaccdfa713e6f7d902c2e81c0d5c7ae27795855ccd461260889b3ab"
+          "sha256": "4f91ed6ee706b869d5b0cf95f2e94ab4659acb796dc3bcc8c7ba5994d375c7a6"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "c23cd9845c11c927cde6b808c0128ed240ffc667c97537e6b97aba0333529152"
+          "sha256": "18f19ccd6af16b3a514f10b4e75ae873b28935ca887f7e1ecaa19bbfd4a5ce70"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "4dbafba9dacd507477e18a1c69e60f46a57a039ced32ec188ca21c182923be31"
+          "sha256": "becd029dac394befd9cab692b4ec889ebd65eaa0eddf51eca7db438ac2242ddf"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/3c3999849db6b41a-00004.part",
-          "size": 186225732,
-          "sha256": "15144d1cc04906774a4c8dd89ae2b2be3de3b78de74ecad2c9932b4a86c92f07"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/3c3999849db6b41a-00004.part",
+          "size": 186226492,
+          "sha256": "7fd8eb973b7775f798ecdac12dbe37738e3807d1810c567cb54f76f82ac6b6c8"
         }
       ]
     },
@@ -52,7 +52,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.65/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.66/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -60,33 +60,20 @@
     }
   ],
   "release_notes": {
-    "title": "Combat Motion and Performance Polish",
-    "summary": "Smoother repeated attacks and less repeated work during busy battles.",
-    "url": "https://meltdownlinewars.se/news/combat-performance-polish/",
-    "id": "combat-performance-polish-20261103",
+    "title": "Flowing Prismari Ground Fire",
+    "summary": "Prismari ground-fire fields and trails now use the flowing fire treatment seen on updated impacts.",
+    "url": "https://meltdownlinewars.se/news/prismari-ground-fire/",
+    "id": "prismari-ground-fire-20261103",
     "channel": "TEST",
     "date": "2026-11-03",
     "sections": [
       {
-        "title": "Improvements",
-        "items": [
-          "Reduced repeated model-size and Prismari attack preparation work during battles. Performance still depends on device and battle density.",
-          "Knight, Clan Mauler and Arbalest attacks have gentler preparation and recovery, with their existing contact timing and equipment preserved."
-        ]
-      },
-      {
         "title": "Fixes",
         "items": [
-          "Repeated combat updates no longer rewind attack preparation between simulation steps. Damage, attack speed and gameplay rules are unchanged."
-        ]
-      },
-      {
-        "title": "Known issues",
-        "items": [
-          "Dense battles and simultaneous upgrades can still cause stutters. Further physical-phone performance testing is needed."
+          "Replaced the older central flame shapes in Prismari ground-fire fields and trails with flowing fire spread across their area. Damage, duration and Scorched are unchanged."
         ]
       }
     ]
   },
-  "signature": "6ZiGIX6ITY1C8CGHxBtjqeRXY40bj2ptRpYQxOiVGUD89TpVOhr+e2oeOG7goCISd867J2nSq0OGjhMGUr5SBg=="
+  "signature": "QQlymPRJ2+eCj1q0Et8a6AemekGbLLEcOnetqpKGhh+U0fFY2tk6Zm3MRYFn1hlYvbNSo7U3vZ9j/pNKxWDeAQ=="
 }
