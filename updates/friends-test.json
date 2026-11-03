@@ -1,48 +1,48 @@
 {
   "schema": 1,
-  "version": "0.1.58",
+  "version": "0.1.60",
   "files": [
     {
       "path": "Meltdown Line Wars.exe",
-      "size": 103198720,
-      "sha256": "d37725232a4a43d1c9f2ae5cfbfade1a0fa1cffc6654a4551d19b484f1d08871",
+      "size": 103173120,
+      "sha256": "905b27e79d465d6418490f84271638d24a62858ec3918474e149fc6f50e9c886",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/5cb1dd1b4ee550c7-00000.part",
-          "size": 103198720,
-          "sha256": "d37725232a4a43d1c9f2ae5cfbfade1a0fa1cffc6654a4551d19b484f1d08871"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/5cb1dd1b4ee550c7-00000.part",
+          "size": 103173120,
+          "sha256": "905b27e79d465d6418490f84271638d24a62858ec3918474e149fc6f50e9c886"
         }
       ]
     },
     {
       "path": "Meltdown Line Wars.pck",
-      "size": 2329433904,
-      "sha256": "fd9b9460967975d7def7e941a64cb49bda48b2dd01748b81990b2a8747c82c94",
+      "size": 2330365908,
+      "sha256": "a81e21e64c588a5da0257f6803201e397417bc8131f3f202a7cbf99bb4528fb5",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/3c3999849db6b41a-00000.part",
           "size": 536870912,
-          "sha256": "36bb3d56cd90b1d6bb3f07eb4515b20cc23b83d551d206327aad13bafc8a7148"
+          "sha256": "aa54d85ebf1dee3ab6fc07d783c51953699e70ab31d6ed7b4a23bc5f582e0717"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00001.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/3c3999849db6b41a-00001.part",
           "size": 536870912,
-          "sha256": "d697f9f966f7d925008d91bcda953468ecd59938fdc0876e6867dcdfd2aff2dc"
+          "sha256": "93df96113e50c7de978203e61ce6e39859fcaaae250f9dbb9c4c9956b2a8d986"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00002.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/3c3999849db6b41a-00002.part",
           "size": 536870912,
-          "sha256": "7c36b5b18462c78dfd63d2028effc0604cce47876c010361846792cdf433bc15"
+          "sha256": "71b9f15baec44d860f3171f19911f4d83a9d1b0602beb02452dfe016202ba651"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00003.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/3c3999849db6b41a-00003.part",
           "size": 536870912,
-          "sha256": "9e3576c2f95860f726b14aaf6f4bfc4d2819ed59a54467d47a56baca53f743d4"
+          "sha256": "addb2ab13d7812c967ff8b55b109ac0630009bd0fe1e3edd9f5ce28715e42f08"
         },
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/3c3999849db6b41a-00004.part",
-          "size": 181950256,
-          "sha256": "c304e011958c6b22d2805c4ec7f3b5a90c5fec79b87d6fe230670f8efac8af96"
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/3c3999849db6b41a-00004.part",
+          "size": 182882260,
+          "sha256": "fc1e57ca40346e930807c91e88724cbac70d952ea47f9948d5a4676b85975e25"
         }
       ]
     },
@@ -52,7 +52,7 @@
       "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4",
       "chunks": [
         {
-          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.58/53c76aba77b31a80-00000.part",
+          "url": "https://github.com/VBruzelius/meltdown-line-wars-confirmation/releases/download/game-test-v0.1.60/53c76aba77b31a80-00000.part",
           "size": 123,
           "sha256": "bd49bae9185ebfae2c19c4a8b3584e2ce9dcfaafc33f986925fada3936facef4"
         }
@@ -60,59 +60,51 @@
     }
   ],
   "release_notes": {
-    "title": "Ranked TEST and Smoother PvP",
-    "summary": "Try ranked Duel and King of the Hill, review hub leaderboards, and enjoy smoother PvP flow.",
-    "url": "https://meltdownlinewars.se/news/pvp-flow-runes/",
-    "id": "pvp-flow-runes-20261101",
+    "title": "Practice Bots and a Better First Battle",
+    "summary": "Practice against bots, learn the basics with a guided tutorial, and enjoy clearer account and leaderboard controls.",
+    "url": "https://meltdownlinewars.se/news/practice-and-profile/",
+    "id": "practice-and-profile-20261103",
     "channel": "TEST",
-    "date": "2026-11-01",
+    "date": "2026-11-03",
     "sections": [
       {
         "title": "New",
         "items": [
-          "Open Survival and Ranked leaderboards directly from the hub.",
-          "Complete ten placements per queue to reveal your medal and rating.",
-          "Ranked TEST adds Duel and King of the Hill, with separate Live and Rounds ratings.",
-          "Queue Again returns you to matchmaking with the same game mode, race and send style."
+          "Practice vs Bot adds Easy, Medium and Hard opponents for Live and Rounds Duel. Use your chosen race and loadout against a Dawnforged bot with matching talent point budgets. Practice grants no XP or rating.",
+          "New players can try a guided Survival tutorial, followed by an introduction to PvP sends and income. Replay it from Settings.",
+          "Meltdown Line Wars has a new silver and blue game icon. The launcher keeps its familiar orange icon."
         ]
       },
       {
         "title": "Balance",
         "items": [
-          "PvP sending unlocks after the first income payment.",
-          "The first sender unit now costs 4 gold for 1 income, matching the baseline ratio of other sends.",
-          "Repeated matches against the same opponent no longer add an extra XP restriction. The shared daily race allowance still applies.",
-          "Mixed Cargo no longer grants starting income. Its first-three-type discounts remain, saving up to 6 gold per match.",
-          "Growing Convoy now grants +1 bonus income per 20 normal income bought through paid sends. Progress carries over without extra rounding benefits for cheap sends.",
-          "Prismari conduits now grant full power to every connected core. Linked cores also receive a 20% attack-power boost; existing saved runs retain their original rules."
+          "Successfully sent enemies now return 50% of their purchase price after completing their route, rounded down. Cancelled sends retain their existing refunds.",
+          "Ranked winners can receive XP when an opponent surrenders after a genuine match. The quitter receives no XP; rating changes remain separate."
         ]
       },
       {
         "title": "Improvements",
         "items": [
-          "Runecarver buffs now show a glowing rune inscription beneath the buffed unit.",
-          "Account XP confirmation starts sooner after a match, with a pending indicator while the result is confirmed.",
-          "Prismari resonance stages and elemental attacks have stronger visual identities, with clearer lightning, frost, fire and heavy impacts and fewer overlapping ground effects."
+          "Hub leaderboards use race emblems, whole-number scores and a more compact centered layout. Casual and Ranked choices have clearer icons.",
+          "Password recovery gives clearer sending and confirmation messages, including a reminder to check spam."
         ]
       },
       {
         "title": "Fixes",
         "items": [
-          "Returning from PvP clears the finished match so Play can be used again.",
-          "PvP batch upgrades allow the affordable part of a selection and leave the remaining units selected. Talent discounts are included in the affordability count.",
-          "More Info in upgrade confirmation expands and collapses without a checkbox.",
-          "Rounds income now arrives once at the round boundary. Live income remains every 15 seconds.",
-          "Android Tech upgrades respond correctly while Multi Select is enabled.",
-          "Windows game updates now prepare normal folder permissions before installation and show clearer access-error messages."
+          "Selected profile avatars restore correctly between sessions.",
+          "Inviting a friend to a party creates the party automatically when needed."
         ]
       },
       {
         "title": "Known issues",
         "items": [
+          "Practice bots currently play Dawnforged. Hard is an initial test difficulty; Rounds practice can run longer than intended.",
+          "Physical phone and tablet performance testing of practice matches is still pending.",
           "Prismari currently uses General talents. Its dedicated race talent web will follow."
         ]
       }
     ]
   },
-  "signature": "rj66+bIh/6YX9vJ2SvcsBQe4KiR/n64+xuGKCNMUsGgK72vVv72MtLOmTE+sog/HF1KIQ4V10eXQofE02btfBA=="
+  "signature": "448Msn759MG5EQGqIAACcJDLFzTpE4pdDhgDg575en4ZashX3qms3qDgfyOpU/1YS2TbkLRUzksYaiD6jiSiBw=="
 }
